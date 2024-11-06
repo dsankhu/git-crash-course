@@ -11,3 +11,8 @@ function ageabove18()
 {
     return age>=18
 }
+
+function hello()
+{
+    console.log('hello i am here');
+}
