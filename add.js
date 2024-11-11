@@ -11,3 +11,8 @@ function hello()
 {
     console.log('hello i am here');
 }
+
+function newfeature()
+{
+    consolelog('this is a new function in new branch')
+}
