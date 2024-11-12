@@ -15,5 +15,11 @@ function hello()
 function newfeature()
 {
     consolelog('this is a new function in new branch')
-    consolelog('this is a new function adding a new line')
+    consolelog('this is a new function adding a new linegit ')
+}
+
+function newfeatureaddB()
+{
+    consolelog('this is a new function in new branch-addB')
+   
 }
