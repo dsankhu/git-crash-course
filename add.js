@@ -1,5 +1,5 @@
 const age=24;
-const name="piyush garge"
+const name="piyush gargy"
 const dob ='10/01/2024'
 
 function sayname()
