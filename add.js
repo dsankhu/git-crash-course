@@ -21,5 +21,6 @@ function newfeature()
 function newfeatureaddB()
 {
     consolelog('this is a new function in new branch-addB')
-   
+    consolelog('this is a new function in new branch-addB-thirdbranch')
+    consolelog('this is a new function in new branch-addB-thirdbranch-1')
 }
